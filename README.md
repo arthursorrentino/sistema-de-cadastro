@@ -5,6 +5,7 @@ Repositório destinado para estudar o curso da Alura, de título "Git e Github: 
 
 
 Para rodar esse projeto na sua máquina, por favor digite:
-...
+
+```
 node app.js
-...
+```
